@@ -1,5 +1,5 @@
 <Response>
-  <Dial>
+  <Dial record="true">
     <Number>09007797869</Number>
     <Number>07001602641</Number>
   </Dial>
